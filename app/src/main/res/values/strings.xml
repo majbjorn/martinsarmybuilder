@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Martins Army Builder</string>
+    <string name="button_send">Create New Army</string>
+
+    <string name="select_faction">Faction:</string>
+    <string name="select_points">Points:</string>
+    <string name="default_points">2000</string>
+    <string name="select_komp">Komp:</string>
+    <string name="default_komp">10</string>
+</resources>
